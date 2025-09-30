@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SUBA-25/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/SUBA-25/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SUBA-25/LeetCode/tree/master/0231-power-of-two) |
+| [0795-k-th-symbol-in-grammar](https://github.com/SUBA-25/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SUBA-25/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SUBA-25/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SUBA-25/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SUBA-25/LeetCode/tree/master/0231-power-of-two) |
+| [0795-k-th-symbol-in-grammar](https://github.com/SUBA-25/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SUBA-25/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SUBA-25/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SUBA-25/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/SUBA-25/LeetCode/tree/master/0231-power-of-two) |
+| [0795-k-th-symbol-in-grammar](https://github.com/SUBA-25/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SUBA-25/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SUBA-25/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
