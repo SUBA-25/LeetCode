@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SUBA-25/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SUBA-25/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/SUBA-25/LeetCode/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/SUBA-25/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/SUBA-25/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0940-fruit-into-baskets](https://github.com/SUBA-25/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SUBA-25/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
