@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SUBA-25/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SUBA-25/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/SUBA-25/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/SUBA-25/LeetCode/tree/master/0045-jump-game-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SUBA-25/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SUBA-25/LeetCode/tree/master/0013-roman-to-integer) |
 | [0940-fruit-into-baskets](https://github.com/SUBA-25/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Linked List
