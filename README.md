@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SUBA-25/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SUBA-25/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUBA-25/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/SUBA-25/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/SUBA-25/LeetCode/tree/master/0344-reverse-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SUBA-25/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/SUBA-25/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SUBA-25/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SUBA-25/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SUBA-25/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SUBA-25/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/SUBA-25/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SUBA-25/LeetCode/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SUBA-25/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SUBA-25/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/SUBA-25/LeetCode/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SUBA-25/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SUBA-25/LeetCode/tree/master/0067-add-binary) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SUBA-25/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SUBA-25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
