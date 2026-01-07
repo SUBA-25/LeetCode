@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUBA-25/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/SUBA-25/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/SUBA-25/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SUBA-25/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SUBA-25/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/SUBA-25/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SUBA-25/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUBA-25/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/SUBA-25/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SUBA-25/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SUBA-25/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/SUBA-25/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
