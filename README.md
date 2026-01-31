@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SUBA-25/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/SUBA-25/LeetCode/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SUBA-25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SUBA-25/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SUBA-25/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SUBA-25/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SUBA-25/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SUBA-25/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SUBA-25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SUBA-25/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SUBA-25/LeetCode/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/SUBA-25/LeetCode/tree/master/0228-summary-ranges) |
