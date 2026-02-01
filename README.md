@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/SUBA-25/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SUBA-25/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SUBA-25/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SUBA-25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SUBA-25/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Brainteaser
@@ -210,8 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SUBA-25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SUBA-25/LeetCode/tree/master/0169-majority-element) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SUBA-25/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SUBA-25/LeetCode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SUBA-25/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
