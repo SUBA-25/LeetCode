@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SUBA-25/LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/SUBA-25/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/SUBA-25/LeetCode/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SUBA-25/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SUBA-25/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/SUBA-25/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/SUBA-25/LeetCode/tree/master/0190-reverse-bits) |
 ## Greedy
 |  |
 | ------- |
