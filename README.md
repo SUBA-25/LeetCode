@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SUBA-25/LeetCode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/SUBA-25/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/SUBA-25/LeetCode/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SUBA-25/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SUBA-25/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SUBA-25/LeetCode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/SUBA-25/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0707-design-linked-list) |
 ## Trie
 |  |
