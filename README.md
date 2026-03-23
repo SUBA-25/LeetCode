@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SUBA-25/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/SUBA-25/LeetCode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SUBA-25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUBA-25/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SUBA-25/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SUBA-25/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/SUBA-25/LeetCode/tree/master/0605-can-place-flowers) |
 | [0940-fruit-into-baskets](https://github.com/SUBA-25/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SUBA-25/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUBA-25/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/SUBA-25/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SUBA-25/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SUBA-25/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUBA-25/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SUBA-25/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Database
 |  |
