@@ -214,11 +214,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/SUBA-25/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SUBA-25/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SUBA-25/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/SUBA-25/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SUBA-25/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SUBA-25/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SUBA-25/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0707-design-linked-list) |
 ## Queue
