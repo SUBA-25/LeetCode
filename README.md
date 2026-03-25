@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SUBA-25/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/SUBA-25/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/SUBA-25/LeetCode/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/SUBA-25/LeetCode/tree/master/0622-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/SUBA-25/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SUBA-25/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUBA-25/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/SUBA-25/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/SUBA-25/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0707-design-linked-list) |
 ## Trie
 |  |
@@ -227,11 +229,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SUBA-25/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SUBA-25/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/SUBA-25/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SUBA-25/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/SUBA-25/LeetCode/tree/master/0622-design-circular-queue) |
 ## Matrix
 |  |
 | ------- |
