@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/SUBA-25/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SUBA-25/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SUBA-25/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SUBA-25/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SUBA-25/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/SUBA-25/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUBA-25/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SUBA-25/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SUBA-25/LeetCode/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/SUBA-25/LeetCode/tree/master/0605-can-place-flowers) |
 | [2573-find-the-string-with-lcp](https://github.com/SUBA-25/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/SUBA-25/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Breadth-First Search
 |  |
 | ------- |
