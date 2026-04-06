@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/SUBA-25/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/SUBA-25/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/SUBA-25/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SUBA-25/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/SUBA-25/LeetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SUBA-25/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SUBA-25/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/SUBA-25/LeetCode/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/SUBA-25/LeetCode/tree/master/0622-design-circular-queue) |
+| [0874-walking-robot-simulation](https://github.com/SUBA-25/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/SUBA-25/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SUBA-25/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUBA-25/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SUBA-25/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SUBA-25/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SUBA-25/LeetCode/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/SUBA-25/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/SUBA-25/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SUBA-25/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SUBA-25/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
