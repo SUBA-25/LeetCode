@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SUBA-25/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/SUBA-25/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/SUBA-25/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/SUBA-25/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SUBA-25/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/SUBA-25/LeetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SUBA-25/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/SUBA-25/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/SUBA-25/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0707-design-linked-list) |
+| [2069-walking-robot-simulation-ii](https://github.com/SUBA-25/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
 | ------- |
