@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SUBA-25/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUBA-25/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/SUBA-25/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/SUBA-25/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SUBA-25/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2573-find-the-string-with-lcp](https://github.com/SUBA-25/LeetCode/tree/master/2573-find-the-string-with-lcp) |
