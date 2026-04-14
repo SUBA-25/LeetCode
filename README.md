@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SUBA-25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SUBA-25/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUBA-25/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/SUBA-25/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/SUBA-25/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SUBA-25/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SUBA-25/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/SUBA-25/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SUBA-25/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2463-minimum-total-distance-traveled](https://github.com/SUBA-25/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SUBA-25/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2573-find-the-string-with-lcp](https://github.com/SUBA-25/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/SUBA-25/LeetCode/tree/master/2751-robot-collisions) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SUBA-25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SUBA-25/LeetCode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/SUBA-25/LeetCode/tree/master/0414-third-maximum-number) |
+| [2463-minimum-total-distance-traveled](https://github.com/SUBA-25/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/SUBA-25/LeetCode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SUBA-25/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SUBA-25/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
