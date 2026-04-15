@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SUBA-25/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1894-merge-strings-alternately](https://github.com/SUBA-25/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/SUBA-25/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SUBA-25/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/SUBA-25/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/SUBA-25/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SUBA-25/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2463-minimum-total-distance-traveled](https://github.com/SUBA-25/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SUBA-25/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SUBA-25/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/SUBA-25/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/SUBA-25/LeetCode/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/SUBA-25/LeetCode/tree/master/2906-construct-product-matrix) |
