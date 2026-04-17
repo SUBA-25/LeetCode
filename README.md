@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SUBA-25/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SUBA-25/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SUBA-25/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SUBA-25/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SUBA-25/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SUBA-25/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SUBA-25/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SUBA-25/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/SUBA-25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SUBA-25/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Brainteaser
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/SUBA-25/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/SUBA-25/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SUBA-25/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SUBA-25/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
 |  |
 | ------- |
