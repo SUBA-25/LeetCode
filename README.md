@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUBA-25/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/SUBA-25/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SUBA-25/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SUBA-25/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2463-minimum-total-distance-traveled](https://github.com/SUBA-25/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SUBA-25/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/SUBA-25/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SUBA-25/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SUBA-25/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/SUBA-25/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SUBA-25/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String Matching
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SUBA-25/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/SUBA-25/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SUBA-25/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/SUBA-25/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SUBA-25/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/SUBA-25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
