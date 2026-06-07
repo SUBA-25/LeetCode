@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SUBA-25/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/SUBA-25/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SUBA-25/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SUBA-25/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SUBA-25/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/SUBA-25/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/SUBA-25/LeetCode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/SUBA-25/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SUBA-25/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SUBA-25/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2784-check-if-array-is-good](https://github.com/SUBA-25/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SUBA-25/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SUBA-25/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SUBA-25/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SUBA-25/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SUBA-25/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SUBA-25/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SUBA-25/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SUBA-25/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SUBA-25/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SUBA-25/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
 | ------- |
