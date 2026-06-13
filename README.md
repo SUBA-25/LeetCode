@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/SUBA-25/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SUBA-25/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/SUBA-25/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3838-weighted-word-mapping](https://github.com/SUBA-25/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SUBA-25/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SUBA-25/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SUBA-25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/SUBA-25/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SUBA-25/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/SUBA-25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SUBA-25/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3838-weighted-word-mapping](https://github.com/SUBA-25/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Brainteaser
 |  |
 | ------- |
