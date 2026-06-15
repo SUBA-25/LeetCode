@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/SUBA-25/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0707-design-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Trie
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SUBA-25/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SUBA-25/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1894-merge-strings-alternately](https://github.com/SUBA-25/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SUBA-25/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SUBA-25/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
