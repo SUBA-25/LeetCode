@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SUBA-25/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SUBA-25/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SUBA-25/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/SUBA-25/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SUBA-25/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SUBA-25/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SUBA-25/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
