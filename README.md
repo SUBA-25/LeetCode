@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SUBA-25/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SUBA-25/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SUBA-25/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SUBA-25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SUBA-25/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SUBA-25/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SUBA-25/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SUBA-25/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SUBA-25/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SUBA-25/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SUBA-25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1306-jump-game-iii](https://github.com/SUBA-25/LeetCode/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SUBA-25/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SUBA-25/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/SUBA-25/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SUBA-25/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SUBA-25/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SUBA-25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SUBA-25/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SUBA-25/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SUBA-25/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SUBA-25/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SUBA-25/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SUBA-25/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SUBA-25/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SUBA-25/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Geometry
