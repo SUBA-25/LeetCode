@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/SUBA-25/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SUBA-25/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SUBA-25/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SUBA-25/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SUBA-25/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/SUBA-25/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SUBA-25/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SUBA-25/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SUBA-25/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SUBA-25/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/SUBA-25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/SUBA-25/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SUBA-25/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/SUBA-25/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SUBA-25/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SUBA-25/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SUBA-25/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/SUBA-25/LeetCode/tree/master/3161-block-placement-queries) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SUBA-25/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SUBA-25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SUBA-25/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/SUBA-25/LeetCode/tree/master/0190-reverse-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SUBA-25/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SUBA-25/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SUBA-25/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -507,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SUBA-25/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/SUBA-25/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/SUBA-25/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SUBA-25/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -544,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/SUBA-25/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SUBA-25/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
