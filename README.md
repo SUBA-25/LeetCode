@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SUBA-25/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SUBA-25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SUBA-25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/SUBA-25/LeetCode/tree/master/0509-fibonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SUBA-25/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUBA-25/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/SUBA-25/LeetCode/tree/master/1871-jump-game-vii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/SUBA-25/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/SUBA-25/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SUBA-25/LeetCode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/SUBA-25/LeetCode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/SUBA-25/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SUBA-25/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SUBA-25/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SUBA-25/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/SUBA-25/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/SUBA-25/LeetCode/tree/master/0509-fibonacci-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SUBA-25/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SUBA-25/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SUBA-25/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SUBA-25/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SUBA-25/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
